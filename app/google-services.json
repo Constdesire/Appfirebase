@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63302196558",
+    "project_id": "meuprimeiro-98cb7",
+    "storage_bucket": "meuprimeiro-98cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63302196558:android:ce1c6f664970b16dde921f",
+        "android_client_info": {
+          "package_name": "com.example.meuprimeiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjCfAzq2Qg0vZ7iuC0Paqh3j_KLsMwW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
